@@ -35,7 +35,7 @@ To ensure a fair and successful hackathon, please review the guidelines before y
 
 ## Getting Started
 
-- [Haven't registered yet?][Register here](https://zinduaschool.com/hackathon/#register)
+- Haven't registered yet?[Register here](https://zinduaschool.com/hackathon/#register)
 
 ## Contributing
 
