@@ -31,15 +31,15 @@ Explore the various challenges presented in this hackathon. Each challenge comes
 
 To ensure a fair and successful hackathon, please review the guidelines before you get started. We provide details on team formation, submission requirements, and judging criteria.
 
-- [Hackathon Guidelines](guidelines/hackathon-guidelines.md)
+- [Hackathon Guidelines](guidelines/hackathon-guidelines.md) (Coming Soon)
 
 ## Getting Started
 
-- [Haven't registered yet? Register here](https://zinduaschool.com/hackathon/#register)
+- [Haven't registered yet?][Register here](https://zinduaschool.com/hackathon/#register)
 
 ## Contributing
 
-If you're an event organizer, judge, or participant and you'd like to contribute to this repository, please see our [Contributing Guidelines](contributing.md).
+If you're an event organizer, judge, or participant and you'd like to contribute to this repository, please see our [Contributing Guidelines](contributing.md) (Coming Soon). 
 
 ## Contact Us
 
