@@ -23,9 +23,9 @@ This hackathon is an exciting event that brings together innovators, developers,
 Explore the various challenges presented in this hackathon. Each challenge comes with a detailed problem statement, judging criteria, and resources to help you get started.
 
 - [Challenge 1: Cultivating resilience and increasing yields](https://github.com/zinduaschool/zinduathon-2023/blob/main/Challenges/Challenge%201/cultivating-resilience.md)
-- [Challenge 2: Crop Disease Detection](challenges/crop-disease-detection.md)
-- [Challenge 3: Sustainable Pest Control](challenges/sustainable-pest-control.md)
-- [Challenge 4: Access to Market](challenges/access-to-market.md)
+- [Challenge 2: Crop Disease Detection](https://github.com/zinduaschool/zinduathon-2023/blob/main/Challenges/Challenge%202/crop-disease-detection.md)
+- [Challenge 3: Sustainable Pest Control](https://github.com/zinduaschool/zinduathon-2023/blob/main/Challenges/Challenge%203/sustainable-pest-control.md)
+- [Challenge 4: Access to Market](https://github.com/zinduaschool/zinduathon-2023/blob/main/Challenges/Challenge%204/access-to-market.md)
 
 ## Guidelines
 
