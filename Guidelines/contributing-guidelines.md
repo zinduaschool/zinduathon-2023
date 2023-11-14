@@ -36,16 +36,16 @@ Aim for a modular, maintainable, and scalable codebase.
 - Click the "New Pull Request" button.
   
 ### Pull Request Template
-When opening a pull request, please use the following template to ensure a clear and effective review process:
+- When opening a pull request, please use the following template to ensure a clear and effective review process:
 
 #### 1. Description:
-Briefly describe the purpose and context of your pull request.
+- Briefly describe the purpose and context of your pull request.
 
 #### 2. Changes Made:
-List the major changes implemented in this pull request.
+- List the major changes implemented in this pull request.
 
 #### 3. Related Issues:
-Reference any GitHub issues or tasks related to this pull request
+- Reference any GitHub issues or tasks related to this pull request
 
 
 
