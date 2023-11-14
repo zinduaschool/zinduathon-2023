@@ -31,7 +31,7 @@ Explore the various challenges presented in this hackathon. Each challenge comes
 
 To ensure a fair and successful hackathon, please review the guidelines before you get started. We provide details on team formation, submission requirements, and judging criteria.
 
-- [Hackathon Guidelines](https://github.com/zinduaschool/zinduathon-2023/blob/main/Guidelines/hackathon-guidelines.md) (Coming Soon)
+- [Hackathon Guidelines](https://github.com/zinduaschool/zinduathon-2023/blob/main/Guidelines/hackathon-guidelines.md) 
 
 ## Getting Started
 
