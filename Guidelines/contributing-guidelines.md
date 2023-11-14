@@ -45,7 +45,7 @@ Briefly describe the purpose and context of your pull request.
 List the major changes implemented in this pull request.
 
 #### 3. Related Issues:
-Reference any GitHub issues or tasks related to this pull request.
+Reference any GitHub issues or tasks related to this pull request
 
 
 
