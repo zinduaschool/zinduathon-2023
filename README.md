@@ -33,9 +33,10 @@ To ensure a fair and successful hackathon, please review the guidelines before y
 
 - [Hackathon Guidelines](https://github.com/zinduaschool/zinduathon-2023/blob/main/Guidelines/hackathon-guidelines.md) 
 
-## Getting Started
+## Group Allocations
 
-- Haven't registered yet?[ Register here](https://zinduaschool.com/hackathon/#register)
+- Find the groups[ here](https://docs.google.com/spreadsheets/d/1XFjk9v1pyM1UfhXYoIirRKIThZyJ0TwT9zD3GfBIFbg/edit?usp=sharing)
+- The group WhatsApp links are on the document. Kindly join your respective groups for easier communication.
 
 ## Contributing
 
