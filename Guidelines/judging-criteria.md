@@ -2,7 +2,6 @@
 
 ## Judging Rubric
 The rubric will comprise of 5 pillars, each on a scale of 1-5. Here are the guidelines:
-- [Idea & Creativity](# Idea & Creativity)
 
 ### Idea & Creativity
 ##### 5 (Exceptional):
