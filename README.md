@@ -42,6 +42,20 @@ To ensure a fair and successful hackathon, please review the guidelines before y
 
 If you're an event organizer, judge, or participant and you'd like to contribute to this repository, please see our [Contributing Guidelines](https://github.com/zinduaschool/zinduathon-2023/blob/main/Guidelines/contributing-guidelines.md) 
 
+## Prizes and Awards
+
+Cash Awards:
+ - 1st Prize - Sh. 10,000
+ - 2nd Prize - Sh. 8,000
+ - 3rd Prize - Sh. 5,000
+
+Best Project:
+ - SMACHs Foundation will engage you further and could work together
+
+Discounts on Zindua’s core program:
+  - 50% discount on the core-programs and masterclasses for the top 3 teams.
+  - 20% discount on the core-programs and masterclasses for the other participants.
+
 ## Contact Us
 
 If you have any questions or need assistance, feel free to reach out to us on slack or write to hello@zinduaschool.com.
